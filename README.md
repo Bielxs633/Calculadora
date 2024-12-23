@@ -12,18 +12,19 @@ Este projeto é uma **Calculadora**. A aplicação permite realizar operações 
 ---
 
 ## Funcionalidades
-- Realizar operações básicas:
+1. Realizar operações básicas:
   - Adição (+);
   - Subtração (-);
   - Multiplicação (*);
   - Divisão (/);
-- Exibição dos resultados em tempo real.
+2. Exibição dos resultados em tempo real.
 
 ---
 
 ## Tecnologias utilizadas
-1. HTML
-2. CSS
-3. JavaScript
-4. Git
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Markdown**
+- **Git**
 
